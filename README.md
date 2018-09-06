@@ -1,0 +1,21 @@
+# Modul-5
+A.	Latihan Praktikum
+Latihan 1 (NullPointerException)
+![alt text](https://github.com/salmasalsabila/Modul-5/blob/master/nullPointer.png)
+Latihan 2 (ArrayIndexOutOfBoundsException)
+![alt text](https://github.com/salmasalsabila/Modul-5/blob/master/array.png)
+Latihan 3 (ArithmeticException)
+![alt text](https://github.com/salmasalsabila/Modul-5/blob/master/aritmatik.png)
+Latihan 4 (InputMismatchException)
+![alt text](https://github.com/salmasalsabila/Modul-5/blob/master/inputmismatch.png)
+Latihan 5 (RuntimeException)
+![alt text](https://github.com/salmasalsabila/Modul-5/blob/master/runtime1.png)
+![alt text](https://github.com/salmasalsabila/Modul-5/blob/master/runtime2.png)
+Latihan 6 (CloneNotSupportedException)
+![alt text](https://github.com/salmasalsabila/Modul-5/blob/master/colone.png)
+Latihan 6 (CloneNotSupportedException)
+![alt text](https://github.com/salmasalsabila/Modul-5/blob/master/convert.png)
+B.	Tugas Praktikum
+![alt text](https://github.com/salmasalsabila/Modul-5/blob/master/praktikum1.png)
+![alt text](https://github.com/salmasalsabila/Modul-5/blob/master/praktikum2.png)
+![alt text](https://github.com/salmasalsabila/Modul-5/blob/master/praktikum3.png)
